@@ -1,0 +1,14 @@
+13
+add 10
+add 20
+add 30
+root
+height
+exists 10
+next 15
+prev 15
+del 20
+root
+print
+del 10
+height
